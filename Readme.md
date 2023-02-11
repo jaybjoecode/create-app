@@ -47,7 +47,7 @@ npx create-next-app@latest --typescript
 ## Dockerize some project [CLICK HERE](https://github.com/docker/awesome-compose/)
 
 #
-## Manage package on alphine 
+## Manage package on alpine 
 ```sh
 apk update
 
