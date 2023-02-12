@@ -6,7 +6,7 @@ WORKDIR /app
 # RUN npm install -g @angular/cli
 
 # uncomment to nestjs project 
-# npm i -g @nestjs/cli
+# RUN npm i -g @nestjs/cli
 
 COPY . .
 
